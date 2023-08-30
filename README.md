@@ -1,5 +1,6 @@
 # my-first-repo
-Nama  : Maulana Seto
-NPM   : 2206081472
-Kelas : PBP B
-Hobi  : Pusreng
+Nama    : Maulana Seto
+NPM     : 2206081472
+Kelas   : PBP B
+Hobi    : Pusreng
+Jurusan : Ilmu Komputer
